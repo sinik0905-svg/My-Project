@@ -1,1 +1,1 @@
-# My-Project
+# TheGitCollection
