@@ -4,7 +4,9 @@ A collection of my HTML and CSS practice projects.
 
 ## Projects
 
-- 🎵 My Playlist
+### 🎵 My Playlist
+
+A simple HTML and CSS webpage that displays a list of songs with clickable YouTube links.
 
 ## Technologies Used
 
